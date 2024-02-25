@@ -1,0 +1,33 @@
+{
+  "restaurants": [
+    { "name": "Te'Kla", "diningType": "Sit Down", "cuisine": "Mexican" },
+    { "name": "Inside the five", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Georgio's", "diningType": "Sit Down", "cuisine": "Italian" },
+    { "name": "El Salto", "diningType": "Sit Down", "cuisine": "Mexican" },
+    { "name": "Ciao", "diningType": "Sit Down", "cuisine": "Italian" },
+    { "name": "Chandler's Cafe", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Jo-Jo's", "diningType": "Sit Down", "cuisine": "Pizza" },
+    { "name": "Grumpy's", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Tougen", "diningType": "Sit Down", "cuisine": "japanese" },
+    { "name": "Paddy Jacks", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Charlie's", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Cinco de Mayo", "diningType": "Sit Down", "cuisine": "Mexican" },
+    { "name": "Panera", "diningType": "Fast Food", "cuisine": "American" },
+    { "name": "City Bbq", "diningType": "Fast Food", "cuisine": "American" },
+    { "name": "Rosie's", "diningType": "Sit Down", "cuisine": "Italian" },
+    { "name": "Nakama", "diningType": "Fast Food", "cuisine": "japanese" },
+    { "name": "Shawn's", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Frogtown", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Amie's", "diningType": "Sit Down", "cuisine": "Pizza" },
+    { "name": "Scramblers", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Sidon", "diningType": "Fast Food", "cuisine": "Middle Eastern" },
+    { "name": "Chick-fil-A", "diningType": "Fast Food", "cuisine": "American" },
+    { "name": "Poco Piatti", "diningType": "Sit Down", "cuisine": "Middle Eastern" },
+    { "name": "Buffalo Wild Wings", "diningType": "Sit Down", "cuisine": "American" },
+    { "name": "Kyoto Ka", "diningType": "Sit Down", "cuisine": "japanese" },
+    { "name": "Hot Head", "diningType": "Fast Food", "cuisine": "Mexican" },
+    { "name": "Stubborn Brother's", "diningType": "Sit Down", "cuisine": "Pizza" },
+    { "name": "Tropical Smoothie", "diningType": "Fast Food", "cuisine": "American" },
+    { "name": "Bibibop", "diningType": "Fast Food", "cuisine": "American" }
+  ]
+}
