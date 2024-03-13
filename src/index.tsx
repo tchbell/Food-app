@@ -10,9 +10,9 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <FoodContextProvider>
-      <App />
-    </FoodContextProvider>
+    {/* <FoodContextProvider> */}
+    <App />
+    {/* </FoodContextProvider> */}
   </React.StrictMode>
 );
 
